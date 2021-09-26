@@ -1,13 +1,3 @@
 # Vite + TailwindCSS + AlpineJS Template
 
-<a target="_blank" href="https://codesandbox.io/s/vite-tailwind-alpine-tbsnh" style="
-	padding: 8px 12px;
-	border: none;
-	border-radius: 6px;
-	background: #000;
-	color: #fff;
-	font-weight: bold;
-	cursor: pointer;
-	outline: none;
-	text-decoration: none;
-">Open Sandbox</a>
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/liyujun-dev/vite-tailwind-alpine)
